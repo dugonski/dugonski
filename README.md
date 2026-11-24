@@ -29,7 +29,7 @@ design, and data to solve real problems.
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,html,css" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,py,html,css" alt="Languages"/>
 </p>
 
 **Front-end**
@@ -48,6 +48,13 @@ design, and data to solve real problems.
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" alt="Tools"/>
+</p>
+
+**AI Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
 </p>
 
 ---
